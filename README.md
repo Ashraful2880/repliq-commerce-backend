@@ -1,3 +1,8 @@
+## 🕰️ Project History
+
+- 🔹 Originally developed in: **2023**
+- 🔹 Last updated/refactored in: **2025** (backend improvements and minor changes)
+
 # 🛒 Repliq Commerce Backend API
 
 <div align="center">
